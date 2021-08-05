@@ -1,0 +1,221 @@
+1;MT101;	Demande de transfert;	Virements clients et Chèques
+2;MT102;	Virement à plusieurs clients;	Virements clients et Chèques
+3;MT102.STP;	Virement à plusieurs clients;	Virements clients et Chèques
+4;MT103;	Virement à un client;	Virements clients et Chèques
+5;MT103.REMIT;	Virement à un client;	Virements clients et Chèques
+6;MT103.STP;	Virement à un client;	Virements clients et Chèques
+7;MT104;	Recouvrement direct;	Virements clients et Chèques
+8;MT105;	Enveloppe EDIFACT;	Virements clients et Chèques
+9;MT107;	Avis général direct de débit;	Virements clients et Chèques
+10;MT110;	Avis de tirage de chèque;	Virements clients et Chèques
+11;MT111;	Demande d'opposition sur un chèque;	Virements clients et Chèques
+12;MT112;	Réponse à une demande d'opposition sur un chèque;	Virements clients et Chèques
+13;MT190;	Avis de charges, intérêts et autres ajustements;	Virements clients et Chèques
+14;MT191;	Demande de paiements de charges, intérêts et autres dépenses;	Virements clients et Chèques
+15;MT192;	Demande d'annulation;	Virements clients et Chèques
+16;MT195;	Requête;	Virements clients et Chèques
+17;MT196;	Réponse;	Virements clients et Chèques
+18;MT198;	Message propriétaire;	Virements clients et Chèques
+19;MT199;	Message à format libre;	Virements clients et Chèques
+20;MT200;	Virement interbancaire pour compte propre;     Virements entre institutions financières
+21;MT201;	Virements interbancaires multiples pour compte propre;     Virements entre institutions financières
+22;MT202;	Virement interbancaire;     Virements entre institutions financières
+23;MT202.COV;	Virement interbancaire;     Virements entre institutions financières
+24;MT203;	Virements interbancaires multiples;     Virements entre institutions financières
+25;MT204;	Message de débit direct marchés financiers;     Virements entre institutions financières
+26;MT205;	Exécution d'un virement interbancaire;     Virements entre institutions financières
+27;MT205.COV;	Exécution d'un virement interbancaire;     Virements entre institutions financières
+28;MT207;	Demande de virement interbancaire;     Virements entre institutions financières
+29;MT210;	Avis de réception;     Virements entre institutions financières
+30;MT256;	Avis de non-paiement de chèque;     Virements entre institutions financières
+31;MT291;	Demande de paiements de charges, intérêts et autres dépenses;     Virements entre institutions financières
+32;MT292;	Demande d'annulation;     Virements entre institutions financières
+33;MT295;	Requête;     Virements entre institutions financières
+34;MT296;	Réponse;     Virements entre institutions financières
+35;MT298;	Message propriétaire;     Virements entre institutions financières
+36;MT299;	Message à format libre;     Virements entre institutions financières
+37;MT300;	Confirmation d'une opération de change;		Change, marché monétaire et dérivés
+38;MT303;	Forex/Currency Option Allocation Instruction;		Change, marché monétaire et dérivés
+39;MT305;	Confirmation d'une opération d'option de change;		Change, marché monétaire et dérivés
+40;MT306;	Confirmation d'une opération d'option de change;		Change, marché monétaire et dérivés
+41;MT307;	Advice/Instruction of a Third Party FX Deal	;		Change, marché monétaire et dérivés
+42;MT320;	Confirmation d'un emprunt/dépôt à durée fixe;		Change, marché monétaire et dérivés
+43;MT321;	Instruction to Settle a Third Party Loan/Deposit	;		Change, marché monétaire et dérivés
+44;MT330;	Confirmation d'un emprunt/dépôt à durée variable;		Change, marché monétaire et dérivés
+45;MT340;	Confirmation de FRA;		Change, marché monétaire et dérivés
+46;MT341;	Confirmation de règlement de FRA;		Change, marché monétaire et dérivés
+47;MT350;	Avis de paiement d'intérêts sur emprunt/dépôt;		Change, marché monétaire et dérivés
+48;MT360;	Single Currency Interest Rate Derivative Confirmation	;		Change, marché monétaire et dérivés
+49;MT361;	Cross Currency Interest Rate Swap Confirmation	;		Change, marché monétaire et dérivés
+50;MT362;	Interest Rate Reset/Advice of Payment	;		Change, marché monétaire et dérivés
+51;MT364;	Single Currency Interest Rate Derivative Termination/Recouponing Confirmation	;		Change, marché monétaire et dérivés
+52;MT365;	Cross Currency Interest Rate Swap Termination/Recouponing Confirmation	;		Change, marché monétaire et dérivés
+53;MT370;	Netting Position Advice	;		Change, marché monétaire et dérivés
+54;MT380;	Foreign Exchange Order	;		Change, marché monétaire et dérivés
+55;MT381;	Foreign Exchange Order Confirmation	;		Change, marché monétaire et dérivés
+56;MT390;	Avis de charges, intérêts et autres ajustements;		Change, marché monétaire et dérivés
+57;MT391;	Demande de paiements de charges, intérêts et autres dépenses;		Change, marché monétaire et dérivés
+58;MT392;	Demande d'annulation;		Change, marché monétaire et dérivés
+59;MT395;	Requête;		Change, marché monétaire et dérivés
+60;MT396;	Réponse;		Change, marché monétaire et dérivés
+61;MT398;	Message propriétaire ;		Change, marché monétaire et dérivés
+62;MT399;	Message à format libre;		Change, marché monétaire et dérivés
+63;MT400;	Avis de paiement;	Encaissements et Lettres de crédit
+64;MT410;	Acknowledgement	Utilisation Scope Structure; Encaissements et Lettres de crédit
+65;MT412;	Avis d'acceptation; Encaissements et Lettres de crédit
+66;MT416;	Advice of Non-Payment/Non-Acceptance	; Encaissements et Lettres de crédit
+67;MT420;	Tracer	; Encaissements et Lettres de crédit
+68;MT422;	Advice of Fate and Request for Instructions	; Encaissements et Lettres de crédit
+69;MT430;	Amendment of Instructions	; Encaissements et Lettres de crédit
+70;MT450;	Cash Letter Credit Advice	; Encaissements et Lettres de crédit
+71;MT456;	Advice of Dishonour	; Encaissements et Lettres de crédit
+72;MT490;	Avis de charges, intérêts et autres ajustements; Encaissements et Lettres de crédit
+73;MT491;	Demande de paiements de charges, intérêts et autres dépenses; Encaissements et Lettres de crédit
+74;MT492;	Demande d'annulation; Encaissements et Lettres de crédit
+75;MT495;	Requête; Encaissements et Lettres de crédit
+76;MT496;	Réponse; Encaissements et Lettres de crédit
+77;MT498;	Message propriétaire; Encaissements et Lettres de crédit
+78;MT499;	Message à format libres; Encaissements et Lettres de crédit
+79;MT500;	Instruction d'enregistrement; Marchés des titres
+80;MT501;	Confirmation of Registration or Modification	; Marchés des titres
+81;MT502;	Ordre d'achat ou de vente; Marchés des titres
+82;MT503;	Collateral Claim	; Marchés des titres
+83;MT504;	Collateral Proposal	; Marchés des titres
+84;MT505;	Collateral Substitution	; Marchés des titres
+85;MT506;	Collateral and Exposure Statement	; Marchés des titres
+86;MT507;	Collateral Status and Processing Advice	; Marchés des titres
+87;MT508;	Intra-Position Advice	; Marchés des titres
+88;MT509;	Message de statut d'un ordre; Marchés des titres
+89;MT510;	Registration Status and Processing Advice; Marchés des titres	
+90;MT513;	Client Advice Of Execution	; Marchés des titres
+91;MT514;	Trade Allocation Instruction; Marchés des titres
+92;MT515;	Confirmation d'achat ou de vente au client; Marchés des titres
+93;MT516;	Confirmation d'un prêt de titres; Marchés des titres
+94;MT517;	Affirmation de la confirmation d'une transaction; Marchés des titres
+95;MT518;	Confirmation d'une transaction sur titres entre participants de marché; Marchés des titres
+96;MT519;	Modification de données clients; Marchés des titres
+97;MT524;	Intra-Position Instruction	; Marchés des titres
+98;MT526;	General Securities Lending/Borrowing Message; Marchés des titres
+99;MT527;	Triparty Collateral Instruction	; Marchés des titres
+100;MT530;	Transaction Processing Command	; Marchés des titres
+101;MT535;	Relevé de compte-titres; Marchés des titres
+102;MT536;	Statement of Transactions; Marchés des titres	
+103;MT537;	Statement of Pending Transactions	; Marchés des titres
+104;MT538;	Statement of Intra-Position Advices	; Marchés des titres
+105;MT540;	Instruction de réception de titres franco; Marchés des titres
+106;MT541;	Instruction de réception de titres contre paiement; Marchés des titres
+107;MT542;	Instruction de livraison de titres franco; Marchés des titres
+108;MT543;	Instruction de livraision de titres contre paiement; Marchés des titres
+109;MT544;	Confirmation de réception de titres franco; Marchés des titres
+110;MT545;	Confirmation de réception de titres contre paiement; Marchés des titres
+111;MT546;	Confirmation de livraison de titres franco; Marchés des titres
+112;MT547;	Confirmation de livraison de titres contre paiement; Marchés des titres
+113;MT548;	Statut de dénouement et d'avis de traitement; Marchés des titres
+114;MT549;	Request for Statement/Status Advice	; Marchés des titres
+115;MT558;	Triparty Collateral Status and Processing Advice	; Marchés des titres
+116;MT559;	Paying Agent's Claims; Marchés des titres
+117;MT564;	Corporate Action Notification	; Marchés des titres
+118;MT565;	Corporate Action Instruction	; Marchés des titres
+119;MT566;	Corporate Action Confirmation	; Marchés des titres
+120;MT567;	Corporate Action Status and Processing Advice	; Marchés des titres
+121;MT568;	Corporate Action Narrative	; Marchés des titres
+122;MT569;	Triparty Collateral and Exposure Statement	; Marchés des titres
+123;MT574.IRSLST;	IRS 1441 NRA-IRS Beneficial Owners' List	; Marchés des titres
+124;MT574.W8BENO;	IRS 1441 NRA-Form W8-BEN	; Marchés des titres
+125;MT575;	Report of Combined Activity	; Marchés des titres
+126;MT576;	Statement of Open Orders	; Marchés des titres
+127;MT577;	Statement of Numbers	; Marchés des titres
+128;MT578;	Relance d'appariement; Marchés des titres
+129;MT579;	Certificate Numbers	; Marchés des titres
+130;MT581;	Collateral Adjustment Message	; Marchés des titres
+131;MT586;	Statement of Settlement Allegements	; Marchés des titres
+132;MT590;	Avis de charges, intérêts et autres ajustements; Marchés des titres
+133;MT591;	Demande de paiements de charges, intérêts et autres dépenses; Marchés des titres
+134;MT592;	Demande d'annulation; Marchés des titres
+135;MT595;	Requête; Marchés des titres
+136;MT596;	Réponse; Marchés des titres
+137;MT598;	Message propriétaire; Marchés des titres
+138;MT599;	Message à format libre; Marchés des titres
+139;MT600;	Commodity Trade Confirmation;	Métaux précieux et syndication	
+140;MT601;	Commodity Option Confirmation;	Métaux précieux et syndication	
+141;MT604;	Commodity Transfer/Delivery Order	;	Métaux précieux et syndication
+142;MT605;	Commodity Notice to Receive	;	Métaux précieux et syndication
+143;MT606;	Commodity Debit Advice;	Métaux précieux et syndication
+144;MT607;	Commodity Credit Advice	;	Métaux précieux et syndication
+145;MT608;	Statement of a Commodity Account	;	Métaux précieux et syndication
+146;MT609;	Statement of Commodity Contracts	;	Métaux précieux et syndication
+147;MT620;	Commodity Fixed Loan/Deposit Confirmation	;	Métaux précieux et syndication
+148;MT643;	Notice of Drawdown/Renewal	;	Métaux précieux et syndication
+149;MT644;	Advice of Rate and Amount Fixing	;	Métaux précieux et syndication
+150;MT646;	Payment of Principal and/or of Interest	;	Métaux précieux et syndication
+151;MT649;	General Syndicated Facility Message	;	Métaux précieux et syndication
+152;MT670;	Standing Settlement Instruction Update Notification Request	;	Métaux précieux et syndication
+153;MT671;	Standing Settlement Instruction Update Notification	;	Métaux précieux et syndication
+154;MT690;	Avis de charges, intérêts et autres ajustements;	Métaux précieux et syndication
+155;MT691;	Demande de paiements de charges, intérêts et autres dépenses;	Métaux précieux et syndication
+156;MT692;	Demande d'annulation;	Métaux précieux et syndication
+157;MT695;	Requête;	Métaux précieux et syndication
+158;MT695;	Réponse;	Métaux précieux et syndication
+159;MT698;	Message propriétaire;	Métaux précieux et syndication
+160;MT699;	Message à format libre;	Métaux précieux et syndication
+161;MT700;	Ouverture de crédit documentaire;	Crédits documentaires et Garanties
+162;MT701;	Ouverture de crédit documentaire;	Crédits documentaires et Garanties
+163;MT705;	Préavis de crédit documentaire;	Crédits documentaires et Garanties
+164;MT707;	Modification de crédit documentaire;	Crédits documentaires et Garanties
+165;MT710;	Notification de crédit documentaire d'une tierce banque;	Crédits documentaires et Garanties
+166;MT711;	Notification de crédit documentaire d'une tierce banque;	Crédits documentaires et Garanties
+167;MT720;	Transfert de crédit documentaire;	Crédits documentaires et Garanties
+168;MT721;	Transfert de crédit documentaire;	Crédits documentaires et Garanties
+169;MT730;	Accusé de réception;	Crédits documentaires et Garanties
+170;MT732;	Avis de décharge;	Crédits documentaires et Garanties
+171;MT734;	Avis de refus;	Crédits documentaires et Garanties
+172;MT740;	Autorisation de remboursement;	Crédits documentaires et Garanties
+173;MT742;	Demande de remboursement;	Crédits documentaires et Garanties
+174;MT747;	Modification d’une autorisation de remboursement;	Crédits documentaires et Garanties
+175;MT750;	Avis d’irrégularité;	Crédits documentaires et Garanties
+176;MT752;	Autorisation de paiement/acceptation/négociation;	Crédits documentaires et Garanties
+177;MT754;	Avis de paiement/acceptation/négociation;	Crédits documentaires et Garanties
+178;MT756;	Avis de remboursement/paiement;	Crédits documentaires et Garanties
+179;MT760;	Émission d’une garantie;	Crédits documentaires et Garanties
+180;MT767;	Modification d’une garantie;	Crédits documentaires et Garanties
+181;MT768;	Accusé de réception d’un message de garantie;	Crédits documentaires et Garanties
+182;MT769;	Mainlevée totale ou partielle sur une garantie;	Crédits documentaires et Garanties
+183;MT790;	Avis de charges, intérêts et autres ajustements;	Crédits documentaires et Garanties
+184;MT791;	Demande de paiements de charges, intérêts et autres dépenses;	Crédits documentaires et Garanties
+185;MT792;	Demande d'annulation;	Crédits documentaires et Garanties
+186;MT795;	Requête;	Crédits documentaires et Garanties
+187;MT796;	Réponse;	Crédits documentaires et Garanties
+188;MT798;	Message propriétaire;	Crédits documentaires et Garanties
+189;MT799;	Message à format libre;	Crédits documentaires et Garanties
+190;MT800;	T/C Sales and Settlement Advice [Single];	Chèques de voyage	
+191;MT801;	T/C Multiple Sales Advice	;	Chèques de voyage
+192;MT802;	T/C Settlement Advice;	Chèques de voyage
+193;MT824;	T/C Inventory Destruction/Cancellation Notice;	Chèques de voyage	
+194;MT890;	Avis de charges, intérêts et autres ajustements;	Chèques de voyage
+195;MT891;	Demande de paiements de charges, intérêts et autres dépenses;	Chèques de voyage
+196;MT892;	Demande d'annulation;	Chèques de voyage
+197;MT895;	Requête;	Chèques de voyage
+198;MT896;	Réponse;	Chèques de voyage
+199;MT898;	Message propriétaire;	Chèques de voyage
+200;MT899;	Message à format libre;	Chèques de voyage
+201;MT900;	Confirmation de débit;	Gestion de trésorerie et Restitutions clients
+202;MT910;	Confirmation de crébit;	Gestion de trésorerie et Restitutions clients
+203;MT920;	Message de demande;	Gestion de trésorerie et Restitutions clients
+204;MT935;	Avis de modification de taux;	Gestion de trésorerie et Restitutions clients
+205;MT940;	Extrait de compte client;	Gestion de trésorerie et Restitutions clients
+206;MT941;	Rapport de solde;	Gestion de trésorerie et Restitutions clients
+207;MT942;	Relevé provisoire d’opérations;	Gestion de trésorerie et Restitutions clients
+208;MT950;	Extraits de compte correspondant;	Gestion de trésorerie et Restitutions clients
+209;MT970;	Extrait de compte de netting;	Gestion de trésorerie et Restitutions clients
+210;MT971;	Rapport de solde sur netting;	Gestion de trésorerie et Restitutions clients
+211;MT972;	Extrait de compte de netting intermédiaire;	Gestion de trésorerie et Restitutions clients
+212;MT973;	Demande de rapport de netting;	Gestion de trésorerie et Restitutions clients
+213;MT985;	Status Enquiry	;	Gestion de trésorerie et Restitutions clients
+214;MT986;	Status Report	;	Gestion de trésorerie et Restitutions clients
+215;MT990;	Avis de charges, intérêts et autres ajustements;	Gestion de trésorerie et Restitutions clients
+216;MT991;	Demande de paiements de charges, intérêts et autres dépenses;	Gestion de trésorerie et Restitutions clients
+217;MT992;	Demande d'annulation;	Gestion de trésorerie et Restitutions clients
+218;MT995;	Requête;	Gestion de trésorerie et Restitutions clients
+219;MT996;	Réponse;	Gestion de trésorerie et Restitutions clients
+220;MT998;	Message propriétaire;	Gestion de trésorerie et Restitutions clients
+221;MT999;	Message à format libre;	Gestion de trésorerie et Restitutions clients

@@ -1,0 +1,3 @@
+-Création d'une base de données nommée : eurafric-swift-batch.
+-Changer le port mySQL.
+-Exécuter les schemas type_champ.sql et type_swift.sql
